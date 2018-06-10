@@ -1,5 +1,5 @@
 {
-    "name":"terminal42/contao-fineuploader",
+    "name":"markocupic/contao-fineuploader",
     "description":"Uploader extension with chunking support for Contao Open Source CMS using FineUploader by Widen",
     "keywords":["contao", "uploader", "fineuploader", "chunking"],
     "type":"contao-module",
